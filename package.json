@@ -1,0 +1,15 @@
+{
+  "name": "aws-terraform-generator",
+  "version": "1.0.0",
+  "description": "Generate Terraform configurations for existing AWS infrastructure resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudolf Olah",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1394.0",
+    "terraform-generator": "^5.3.1"
+  }
+}
